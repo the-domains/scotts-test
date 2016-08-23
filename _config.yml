@@ -1,0 +1,14 @@
+layout_spectrum: 0.9131301918532699
+typography_spectrum: 0.5595790781080723
+color:
+  brandStrength: 0.30395242967642844
+  lightness: 0.18889864860102534
+  saturation: 0.7441838658414781
+  rhythmicContrast: 0.4576614482793957
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Scott's Test
